@@ -99,7 +99,7 @@ Full dependency list: [`requirements.cuda.txt`](requirements.cuda.txt) (CUDA) or
 
 ---
 
-## One-Line Summary (Resume Format)
+## One-Line Summary
 
 > **Transformer Image Captioning & Self-Supervised Learning (SimCLR, CUDA)**  
 > Built and validated a CUDA-accelerated PyTorch pipeline implementing Transformer captioning (final loss 0.0224 over 100 epochs) and SimCLR contrastive pretraining (24.62M params, 1.31G FLOPs), achieving 83.31% top-1 and 99.36% top-5 accuracy on CIFAR-10 kNN linear evaluation.
